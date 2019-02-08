@@ -58,12 +58,7 @@ board definition file to the pin.h board selection macro and you are done.
 * TODO.
 
 ## TODO:
-- finsih the motor run routine 
-- add confirmation dialog after motor stop 
-- finish the second and third settings menu options
-- implement the call event for the DSLR ir library
-- clean up code
-- finish rotary encoder support
+see https://github.com/mariolukas/OpenScan-Alternative-Firmware/issues
 
 
 
