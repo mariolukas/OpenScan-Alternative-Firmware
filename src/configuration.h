@@ -14,7 +14,7 @@
 
  
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_FABSCAN_SHIELD
+  #define MOTHERBOARD DEFAULT
 #endif
 
 /*
